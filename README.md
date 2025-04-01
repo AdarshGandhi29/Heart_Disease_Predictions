@@ -26,8 +26,5 @@ We experiment with three different machine learning models:
 2. **Decision Tree Classifier** 🌳
 3. **Random Forest Classifier** 🌲🌲
 
-## 📊 Results & Accuracy
-Each model is evaluated using accuracy metrics to determine its performance. The best model is selected based on its effectiveness in predicting heart disease.
-
 ## 🏅 Contributing
 Feel free to fork the repository and enhance the project with more algorithms or improved visualizations!
